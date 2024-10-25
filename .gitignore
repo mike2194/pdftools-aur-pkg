@@ -1,0 +1,5 @@
+## ignore pkgbuild stuff
+*.pkg.tar.zst
+src/
+pkg/
+pdftools/
